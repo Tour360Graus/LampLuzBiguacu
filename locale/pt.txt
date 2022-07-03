@@ -3,20 +3,20 @@
 ## Action
 
 ### URL
-LinkBehaviour_BB998E66_A73B_8B4D_41DC_2B2DC63F000F.source = http://wa.me/554820123131
 LinkBehaviour_D9682269_C14E_6D42_41D6_53E4787D67FE.source = http://wa.me/554820123131
-LinkBehaviour_D96A6266_C14E_6D4E_41C9_E8767F1F2523.source = http://wa.me/554820123131
+LinkBehaviour_BB998E66_A73B_8B4D_41DC_2B2DC63F000F.source = http://wa.me/554820123131
 LinkBehaviour_D98CD6C5_C1B5_F54D_41D6_6D023D10E367.source = http://wa.me/554820123131
-LinkBehaviour_D968B265_C14E_6D42_41D7_13FE789E6347.source = https://g.page/r/CbIC72Jn3W5HEAg/review
+LinkBehaviour_D96A6266_C14E_6D4E_41C9_E8767F1F2523.source = http://wa.me/554820123131
 LinkBehaviour_9BACBC06_AB27_8F31_41B6_366B8C15E68F.source = https://g.page/r/CbIC72Jn3W5HEAg/review
-LinkBehaviour_D9697267_C14E_6D4E_41CC_FAE3A00A36FA.source = https://lampluziluminacao.com.br
+LinkBehaviour_D968B265_C14E_6D42_41D7_13FE789E6347.source = https://g.page/r/CbIC72Jn3W5HEAg/review
 LinkBehaviour_D8236222_C1BD_ECC6_41CF_D2FB96451FB5.source = https://lampluziluminacao.com.br
-LinkBehaviour_D803197B_C1B6_3F45_41E4_30651AB83964.source = https://www.facebook.com/lampluz
+LinkBehaviour_D9697267_C14E_6D4E_41CC_FAE3A00A36FA.source = https://lampluziluminacao.com.br
 LinkBehaviour_D9697266_C14E_6D4E_41E8_58128A792ACE.source = https://www.facebook.com/lampluz
-LinkBehaviour_D96B9264_C14E_6D42_41E0_C80555FA506C.source = https://www.google.com/maps/place/LampLuz+Ilumina%C3%A7%C3%A3o+-+Loja+Bigua%C3%A7u/@-27.5097415,-48.6469885,17z/data=!3m1!4b1!4m5!3m4!1s0x95274deebbd9be63:0x476edd6762ef02b2!8m2!3d-27.5097463!4d-48.6447998
+LinkBehaviour_D803197B_C1B6_3F45_41E4_30651AB83964.source = https://www.facebook.com/lampluz
 LinkBehaviour_DABBEDCD_C1B2_F742_41E5_8DF1F6130A71.source = https://www.google.com/maps/place/LampLuz+Ilumina%C3%A7%C3%A3o+-+Loja+Bigua%C3%A7u/@-27.5097415,-48.6469885,17z/data=!3m1!4b1!4m5!3m4!1s0x95274deebbd9be63:0x476edd6762ef02b2!8m2!3d-27.5097463!4d-48.6447998
-LinkBehaviour_D82A3648_C1B6_5542_41DA_C1AB29F2A84A.source = https://www.instagram.com/lampluzloja
+LinkBehaviour_D96B9264_C14E_6D42_41E0_C80555FA506C.source = https://www.google.com/maps/place/LampLuz+Ilumina%C3%A7%C3%A3o+-+Loja+Bigua%C3%A7u/@-27.5097415,-48.6469885,17z/data=!3m1!4b1!4m5!3m4!1s0x95274deebbd9be63:0x476edd6762ef02b2!8m2!3d-27.5097463!4d-48.6447998
 LinkBehaviour_D96A9266_C14E_6D4E_41BA_6BBCB5116EFB.source = https://www.instagram.com/lampluzloja
+LinkBehaviour_D82A3648_C1B6_5542_41DA_C1AB29F2A84A.source = https://www.instagram.com/lampluzloja
 
 ## Media
 
